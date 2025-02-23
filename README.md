@@ -1,7 +1,6 @@
-# meals
+# Meals
 
-A new Flutter project.
-
+A Flutter application for discovering and bookmarking favorite meal recipes. It features category-wise navigation, customizable filters, and a seamless user experience enhanced with animations. Built using core Flutter concepts and the Riverpod state management library for efficient and scalable state handling.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
